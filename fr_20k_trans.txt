@@ -72,7 +72,7 @@ place spot
 maintenant now
 souvent often
 voix voice
-aurait would
+aurait would have
 mal evil
 assez enough
 doit must
@@ -93,7 +93,7 @@ terre earth
 presque almost
 mieux better
 petite small
-serait would
+serait would be
 loin far
 pourquoi why
 histoire history
@@ -342,7 +342,7 @@ eût had
 jeunes young people
 vieille old woman
 gauche left
-aurais would
+aurais would have
 vois see
 livre book
 sang blood
@@ -923,7 +923,7 @@ vin wine
 oreille ear
 cru raw
 jeunesse youth
-auraient would
+auraient would have
 hier yesterday
 arbre tree
 jeux games
@@ -996,7 +996,7 @@ sent feels
 pensait thought
 règle rule
 compagnie company
-seraient would
+seraient would be
 vivant living
 vouloir will
 concerne for
@@ -1063,7 +1063,7 @@ attitude attitude
 sombre dark
 croix cross
 animaux animals
-voudrais would
+voudrais would want
 basse low
 effets effects
 projet project
@@ -1148,7 +1148,7 @@ drôle funny
 vague wave
 pourra can
 pages pages
-dirait would
+dirait would say
 vint came
 dimanche Sunday
 vaut is
@@ -1296,7 +1296,7 @@ supérieure top
 demeure residence
 david david
 comte count
-allais would
+allais would go
 relation relation
 entends hear
 lieux places
@@ -1357,7 +1357,7 @@ bataille battle
 espèces cash
 antoine antoine
 malheur misfortune
-ferait would
+ferait would make
 considérer consider
 civilisation civilization
 conversation conversation
@@ -1532,7 +1532,7 @@ bêtes animals
 possède has
 transport transport
 souviens remember
-serais would
+serais would be
 poésie poetry
 philosophie philosophy
 liaison link
@@ -2198,7 +2198,7 @@ fournir provide
 distribution distribution
 scolaire school
 mécanisme mechanism
-voudrait would
+voudrait would want
 servi served
 fine delicate
 courbe curve
@@ -3086,7 +3086,7 @@ espaces spaces
 dira tell
 destruction destruction
 contient contains
-voulut would
+voulut wanted
 embrasser kiss
 cousin cousin
 aperçoit see
@@ -3344,7 +3344,7 @@ bernard bernard
 traités treated
 penses think
 frontières borders
-aimerais would
+aimerais would like
 symbole symbol
 quartiers neighborhoods
 herbes herbs
@@ -4396,7 +4396,7 @@ maria maria
 inquiet worried
 industrielles industrial
 engagement commitment
-aurions would
+aurions would have
 appartenait belonged
 quitta left
 productivité productivity
@@ -4558,7 +4558,7 @@ tirés from
 tasse cup
 singulier singular
 jouant playing
-irait would
+irait would go
 humidité humidity
 combattre fight
 collectives collective
@@ -4578,7 +4578,7 @@ préparait prepared
 parvenait managed
 parois walls
 ignorer ignore
-ferais would
+ferais would make
 couloirs corridors
 chéri darling
 accroître increase
@@ -4814,7 +4814,7 @@ dépôts deposits
 comprenant including
 collections collections
 colle glue
-auriez would
+auriez would have
 joueurs Players
 italiens Italian
 gravement seriously
@@ -5104,7 +5104,7 @@ buste bust
 bonsoir good evening
 bonaparte bonaparte
 apport contribution
-allions would
+allions went
 verras see
 traditionnel traditional
 respire breathing
@@ -5171,7 +5171,7 @@ frein brake
 fausses false
 familial family
 céleste heavenly
-viendrait would
+viendrait would come
 perfectionnement improvement
 parts parts
 meurtre murder
@@ -5734,8 +5734,8 @@ végétation vegetation
 relatifs on
 régularité regularity
 recouvert coated
-précède above
-permettra will
+précède aboveallow
+permettra would allow
 paye pay
 observait observed
 nerf nerve
@@ -6126,7 +6126,7 @@ sincérité sincerity
 réunit meets
 portraits portraits
 personnelles personal
-permettrait would
+permettrait would 
 obligés forced
 mèche wick
 malentendu misunderstanding
@@ -6239,7 +6239,7 @@ fatiguée tired
 durable durable
 connaissaient knew
 alice alice
-suffirait would
+suffirait would be enough
 répété repeated
 rassurer reassure
 pin pine
@@ -6268,7 +6268,7 @@ inégalité inequality
 fluctuations fluctuations
 flots waves
 fermées closed
-dirais would
+dirais would say
 devez have
 balzac balzac
 avaler swallow
@@ -6276,7 +6276,7 @@ associé associate
 anneau ring
 alpes Alps
 abstraction abstraction
-verrait would
+verrait would see
 tempérament temperament
 suède suede
 séparait separated
@@ -6294,7 +6294,7 @@ lectures readings
 lassitude weariness
 habits clothes
 forteresse fortress
-donnerait would
+donnerait would give
 disponibles available
 déterminées determined
 buissons bushes
@@ -6917,7 +6917,7 @@ iooo iooo
 identification identification
 genèse genesis
 fluide fluid
-feraient would
+feraient would make
 créatures creatures
 brésil Brazil
 servaient served
@@ -6994,7 +6994,7 @@ sonores sound
 scolarité schooling
 ruse trick
 reviendra return
-resterait would
+resterait would stay
 ressortir out
 raie ray
 provinces Provinces
@@ -7719,7 +7719,7 @@ cendre ash
 brin strand
 barrages Dams
 artifice artifice
-aimerait would
+aimerait would like
 rêveries musings
 reposant relaxing
 rencontrés encountered
@@ -8198,7 +8198,7 @@ affreuse awful
 affiches posters
 vraisemblable likely
 versa versa
-vaudrait would
+vaudrait would be worth
 tombes graves
 souffla breathed
 reconnaissant grateful
@@ -8382,7 +8382,7 @@ ample ample
 adressé addressed
 achevée completed
 substitution substitution
-serions would
+serions would be
 saisis seized
 raté missed
 pute bitch
@@ -8787,7 +8787,7 @@ extraits extracts
 entendons mean
 efficacement effectively
 devienne becomes
-deviendrait would
+deviendrait would 
 détriment detriment
 défiler scroll
 continuellement continually
@@ -9114,7 +9114,7 @@ tello tello
 superficie area
 suites suites
 socio socio
-reviendrait would
+reviendrait would 
 rassemble together
 rachel rachel
 préalablement beforehand
@@ -10197,7 +10197,7 @@ apprécie appreciate
 alfred alfred
 affirmé said
 acajou mahogany
-voudraient would
+voudraient would 
 vigilance vigilance
 victoires victories
 vermeil red
@@ -10210,7 +10210,7 @@ suivies followed
 suffrage vote
 spontané spontaneous
 site site
-seriez would
+seriez would be
 résolus resolved
 raisonnements reasoning
 rafales gusts
@@ -10838,7 +10838,7 @@ nadia nadia
 mystérieuses mysterious
 munitions ammunition
 molière Molière
-mettrait would
+mettrait would put
 léo leo
 jettent throw
 institutrices teachers
@@ -11013,7 +11013,7 @@ soupçons suspicion
 rubis ruby
 restriction restriction
 replié folded
-rendrait would
+rendrait would produce
 remplies filled
 projette plans
 procession procession
@@ -11068,7 +11068,7 @@ suspendus suspended
 surmonté overcome
 spirale spiral
 songeant thinking
-servirait would
+servirait would serve
 serviettes towels
 remuait moved
 radiodiffusion broadcasting
@@ -12942,7 +12942,7 @@ ion ion
 illimité unlimited
 festival festival
 fesse buttock
-feriez would
+feriez would make
 enclume anvil
 distractions distractions
 détendre relax
@@ -13063,7 +13063,7 @@ sand sand
 remises discounts
 présentations presentations
 poires pears
-permettraient would
+permettraient would 
 péniche barge
 marshall marshall
 libraire bookseller
@@ -13413,7 +13413,7 @@ animateur animator
 améliorée improved
 alcôve alcove
 affolement panic
-voudriez would
+voudriez would want
 suce sucks
 rhume cold
 radis radish
@@ -13489,7 +13489,7 @@ amandes almonds
 albums albums
 adhérer join
 ablation ablation
-voudrions would
+voudrions would want
 trier sort
 survivant survivor
 squaw squaw
