@@ -7,14 +7,14 @@ vers, to
 ainsi, so
 avant, before
 monde, world
-faut, be
+faut, must
 quelques, a few
-jusqu'a, until
+jusqu'à, until
 mes, my
 trois, three
 jour, day
 toutes, all
-trop, too
+trop, too much
 notre, our
 déjà, already
 yeux, eyes
@@ -22,15 +22,15 @@ cela, it
 soit, whether
 donc, therefore
 celui, that
-chez, in
+chez, at
 contre, against
-devant, before
+devant, in front
 depuis, since
 celle, that
 tête, head
 petit, small
 chaque, each
-avais, had
+j'avais, I had
 ans, years
 père, father
 voir, see
@@ -40,26 +40,26 @@ main, hand
 mère, mother
 cet, this
 point, point
-avaient, had
+ils avaient, they had
 nos, our
 eux, them
 fut, was
-grande, great
-moment, time
+grande, big
+moment, moment
 hommes, men
 porte, door
 parce que, because
 cas, case
 ici, here
 car, because
-part, hand
+partie, part
 seulement, only
 air, air
 ceux, those
-beaucoup, much
+beaucoup, a lot
 nuit, night
-seul, only
-france, France
+seul, alone
+France, France
 femme, woman
 enfin, finally
 corps, body
@@ -67,21 +67,21 @@ coup, blow
 oui, yes
 bon, good
 quoi, what
-pendant, for
+pendant, during
 place, spot
 maintenant, now
 souvent, often
 voix, voice
-aurait, would have
-mal, evil
+il aurait, he would have
+mal, bad
 assez, enough
 doit, must
 pays, country
-première, first
+première, first (feminine)
 premier, first
 mort, dead
 je sais, I know
-ailleurs, also
+d'ailleurs, also
 jours, days
 eau, water
 près, close
@@ -101,18 +101,19 @@ guerre, war
 surtout, mainly
 comment, how
 heures, hours
-heure, time
+heure, hour
 fin, end
 soir, evening
 ensemble, together
-maison, home
+maison, house
 personne, person
+personne, no one
 quatre, four
 enfant, child
 doute, doubt
-pouvait, could
+il pouvait, he could have
 dès, from
-faisait, was
+faisait, was doing
 travail, work
 bras, arm
 effet, effect
@@ -120,16 +121,14 @@ reste, rest
 nom, name
 général, general
 dieu, god
-partie, part
 cours, course
 forme, form
 enfants, children
 exemple, example
 votre, your
 parfois, sometimes
-seule, only
 pourtant, yet
-coeur, heart
+cœur, heart
 nombre, number
 ton, tone
 nouveau, new
@@ -139,11 +138,11 @@ siècle, century
 mains, hands
 paris, Paris
 droit, right
-fit, was
+il fit, he did
 années, years
 fond, background
-avons, have
-abord, first
+nous avons, we have
+abord, to arrive
 bas, low
 rue, street
 dis, say
@@ -156,17 +155,17 @@ vieux, old
 prendre, take
 façon, way
 gens, people
-peine, penalty
-peuvent, can
-sera, will
+peine, pain
+ils peuvent, they can
+ce sera, it will
 ordre, order
 lieu, place
 vrai, true
-mêmes, same
+même, same
 compte, account
 autour, around
 tard, late
-fille, daughter
+fille, girl
 longtemps, for a long time
 certains, some
 bois, wood
@@ -178,14 +177,14 @@ pouvoir, power
 pris, taken
 long, long
 vue, view
-grands, large
-haut, top
+grands, big
+haut, high
 parler, talk
 aujourd'hui, today
-aller, go
+aller, to go
 bout, end
 chambre, room
-bonne, good
+bonne, good (feminine)
 esprit, spirit
 saint, saint
 possible, possible
@@ -193,11 +192,11 @@ autant, as
 passé, past
 soleil, sun
 ville, city
-savoir, know
-veux, want
+savoir, to know
+je/tu veux, I/you want
 vite, quickly
 cinq, five
-avez, have
+vous avez, you have (plural)
 dix, ten
 mer, sea
 milieu, middle
@@ -209,27 +208,26 @@ lumière, light
 ciel, sky
 question, question
 idée, idea
-allait, was
-donner, give
+il allait, he was going
+donner, to give
 fort, strong
 plutôt, rather
 matin, morning
 regard, look
 mots, words
-etc, etc.
 mesure, measure
-voilà, here
-devait, was
+voilà, there
+il devait, he had to
 force, force
 politique, policy
 action, action
 quel, what
 oeuvre, work
-sûr, sure
+sûr, certain
 nature, nature
-sait, knows
-aucun, no
-demande, request
+il sait, he knows
+aucun, none
+requête, request
 table, table
 mis, placed
 femmes, women
