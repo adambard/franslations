@@ -1,4 +1,4 @@
-nie not
+nie no
 się a
 jest is
 tak so
@@ -15,7 +15,7 @@ mam I
 już already
 może can
 jesteś you
-pan you
+pan Mr.
 dla for
 coś something
 dobrze well
@@ -38,9 +38,9 @@ bardzo very
 sobie themselves
 wiesz you know
 kiedy when
-pani you
+pani Ms.
 jeszcze more
-jej its
+jej hers
 był was
 chcę I
 mój my
@@ -61,7 +61,7 @@ mamy we
 naprawdę really
 dobra good
 dziękuję thank you
-porządku order
+porządek order
 możesz you
 panie Mr.
 chyba unless
@@ -2671,7 +2671,7 @@ grał played
 ruchu Traffic
 czyste clean
 mylisz wrong
-wschód east
+wschódnim east
 polega is
 idioto idiot
 twoimi your
@@ -9911,7 +9911,6 @@ potwierdza confirms
 ling ling
 cenne valuable
 wzięliśmy we took
-rakieta rocket
 miedzy between
 niewoli captivity
 party party

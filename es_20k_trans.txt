@@ -10,27 +10,26 @@ bien well
 las the
 eso that
 aquí here
-del of
+del of the
 como as
 más more
 todo all
 muy very
 esto this
-vamos we
 ahora now
 esta this
-hay there
+hay there are
 algo something
 estoy am
 tengo I have
 así so
 nada nothing
-nos us
+nosotros us
 cuando when
 cómo how
-estás are
+estás you are
 sólo only
-quiero I
+yo I
 gracias thanks
 tiene you have
 este this
@@ -40,11 +39,11 @@ bueno good
 era era
 ser be
 vez time
-hacer do
+hacer to do
 todos all
 fue was
-son are
-ella it
+son they are
+ella she
 eres you are
 usted you
 tienes you have
@@ -63,9 +62,9 @@ dónde where
 sus their
 dos two
 nunca never
-sabes know
+saber know
 verdad truth
-quieres you
+quieres you want
 mucho much
 tiempo time
 estaba was
@@ -86,10 +85,10 @@ ahí there
 hasta to
 siento Sorry
 puedes can
-decir say
+decir to say
 sobre on
 años years old
-tenemos we
+tenemos we have
 uno one
 día day
 cosas stuff
@@ -102,16 +101,13 @@ otra other
 quiere want
 solo single
 nadie no one
-nosotros we
 gente people
 parece seems
 padre father
 dinero money
-estar be
 hecho done
 les them
 sea is
-estamos we
 mismo same
 dijo said
 mira sight
@@ -150,7 +146,6 @@ gusta like
 gran great
 tenía had
 será will
-mierda shit
 mamá mom
 papá dad
 hoy today
@@ -161,7 +156,6 @@ buena good
 tener have
 luego then
 dije I
-podemos we
 nuevo new
 estado state
 menos less
@@ -201,7 +195,7 @@ hombres men
 hacerlo do
 demasiado too
 haces do
-dicho that
+dicho said
 quien who
 saber know
 entre between
@@ -216,7 +210,6 @@ esos those
 alguna any
 pues for
 quizá perhaps
-hemos we
 idea idea
 veo I
 chica girl
@@ -228,18 +221,16 @@ realmente really
 ustedes you
 estos these
 cabeza head
-digo say
 hermano brother
 van will
 cariño love
-salir leave
+salir to leave
 vale voucher
 familia family
 pasado last
 cuenta account
 muchas many
 algún some
-somos we
 señora Mrs.
 pueden can
 muerto dead
@@ -311,7 +302,7 @@ iba was
 jefe chief
 manos hands
 corazón heart
-venir come
+venir to come
 supongo I guess
 problemas problems
 ayuda help
@@ -341,17 +332,15 @@ manera way
 bajo low
 nuestros our
 persona person
-dices say
 tío uncle
 horas hours
-dijiste said
+dijiste you said
 auto car
 escucha listening
 único only
 poder power
 quieren want
 siquiera even
-debemos we
 quizás perhaps
 aunque although
 cuatro four
@@ -377,7 +366,7 @@ trabajar work
 tomar take
 hey hey
 joven young
-vivir live
+vivir to live
 abajo below
 haya has
 justo just
@@ -396,10 +385,9 @@ srta srta
 basta just
 comer eat
 algunos some
-morir die
+morir to die
 éste this
 atrás back
-dicen say
 difícil difficult
 amo master
 vino wine
@@ -417,7 +405,7 @@ sangre blood
 escuela school
 haga do
 realidad reality
-queda is
+queda stay
 pueblo people
 hiciste did
 última last
@@ -447,7 +435,7 @@ chicas girls
 querida mistress
 pregunta question
 culpa fault
-dormir sleep
+dormir to sleep
 ido gone
 fiesta party
 posible possible
@@ -460,7 +448,6 @@ equipo team
 adónde where
 lejos away
 palabra word
-diga say
 trata is
 matar kill
 preocupes worry
@@ -490,7 +477,6 @@ vivo live
 john john
 recuerdo memory
 fueron were
-carajo fuck
 necesitas need
 tenga have
 película film
@@ -514,7 +500,7 @@ habrá will
 exactamente exactly
 pensando thinking
 padres Parents
-seguir follow
+seguir to follow
 mucha much
 marido husband
 habría would
@@ -523,12 +509,11 @@ afuera out
 niña girl
 podrías could
 paso step
-dio he
+dio he gave
 sentido sense
 habitación room
 café coffee
 mía mine
-digas say
 música music
 murió died
 entiendes understand
@@ -581,7 +566,6 @@ semanas weeks
 conoces know
 anoche last night
 acá here
-queremos we
 libre free
 especial special
 sino but
@@ -595,12 +579,10 @@ pobre poor
 frente front
 buscar search
 piensas think
-hacemos we
 acerca about
 segura safe
 correcto correct
 disculpe sorry
-seas be
 llamar call
 armas arms
 sucede happens
@@ -618,10 +600,9 @@ seguridad security
 york york
 llevar lead
 hospital hospital
-deben be
-llamo call
-sueño dream
-resto rest
+llamo I call
+sueño I dream
+resto I rest
 tranquilo quiet
 mire look
 perfecto perfect
@@ -645,7 +626,6 @@ quisiera would
 ayer yesterday
 plan plan
 real real
-siendo be
 preguntas questions
 haría would
 haz beam
@@ -657,7 +637,7 @@ acaba just
 fuerza force
 aire air
 hablas talk
-verlo see
+verlo to see it
 creí I thought
 conoce known
 hambre hunger
@@ -686,7 +666,7 @@ sol sun
 placer pleasure
 pie foot
 decirte tell
-conseguir get
+conseguir to get
 estuve I
 blanco target
 george george
@@ -727,7 +707,6 @@ dan are
 dejó left
 amiga friend
 enseguida immediately
-haremos we
 llamada call
 error error
 maldición curse
@@ -865,10 +844,10 @@ lindo cute
 gracioso funny
 abuela grandmother
 asi so
-sentir feel
+sentir to feel
 personal personal
 tipos type
-vienen are
+vienen they come
 interesante interesting
 vieja old woman
 dejado left
@@ -885,13 +864,12 @@ principio principle
 tengas have
 terminado completed
 hubo was
-hicieron did
+hicieron they did
 cárcel prison
 oír hear
 agente agent
 listos ready
 tenías had
-tendremos we
 busca search
 cita appointment
 baja low
@@ -999,7 +977,7 @@ ojalá hopefully
 club club
 temprano early
 mirando looking
-escribir write
+escribir to write
 don gift
 sur south
 conocido known
@@ -1030,8 +1008,7 @@ parecía seemed
 ninguno none
 imbécil fool
 leer read
-apuesto dashing
-joder fuck
+apuesto bet
 corte court
 señal signal
 sucedió did
@@ -1046,7 +1023,6 @@ locura madness
 aun even
 relación relationship
 viva living
-seré will be
 cartas letters
 cerebro brain
 simple simple
@@ -1100,7 +1076,6 @@ mirar look
 peter peter
 acaso perhaps
 causa cause
-vayan be
 zapatos shoes
 lleno full
 humano human
@@ -1157,7 +1132,6 @@ inteligente intelligent
 valor value
 damas ladies
 caballero knight
-estarás will be
 llaman call
 mantener maintain
 hagan do
@@ -1165,7 +1139,7 @@ flores flowers
 serás you will
 finalmente finally
 miles thousands
-pedir ask
+pedir to ask
 aprender learn
 equivocado wrong
 puso put
@@ -1248,7 +1222,6 @@ beso kiss
 cálmate calm down
 encontramos are
 debía was
-estaremos we
 excepto except
 desea like
 viento wind
@@ -1273,7 +1246,7 @@ metros meters
 exacto exact
 alta high
 llevaré take
-abrir open
+abrir to open
 perros Dogs
 ios ios
 copa cup
@@ -1309,7 +1282,7 @@ nave nave
 tuviera had
 películas movies
 taxi taxi
-subir upload
+subir to upload
 escrito written
 decirlo say
 eddie eddie
@@ -1353,7 +1326,6 @@ principal main
 probar test
 encontró found
 acabar end
-podamos we
 encantado delighted
 muere dies
 propósito purpose
@@ -1393,7 +1365,6 @@ cuántas many
 oyes hear
 pedido order
 tuvimos had
-fuimos we
 absoluto absolute
 inglaterra England
 héroe hero
@@ -1462,7 +1433,6 @@ llorar mourn
 fuerzas forces
 estrellas stars
 despacio slowly
-llegamos we
 estudio study
 ideas Ideas
 nivel level
@@ -1597,7 +1567,6 @@ contrato contract
 llevan are
 paseo ride
 richard richard
-quede be
 rayos ray
 aquellos those
 hagamos do
@@ -1678,7 +1647,6 @@ militar military
 quedo stay
 preguntar ask
 verdadera true
-podremos we
 ladrón thief
 americano American
 bienvenidos welcome
@@ -1744,7 +1712,6 @@ embarazada pregnant
 hables talk
 ángel angel
 código code
-puto fucking
 dave dave
 saca out
 toques touch
@@ -1803,7 +1770,6 @@ larry larry
 tendrán will
 jake jake
 área area
-nosotras we
 comenzar start
 saliendo out
 limpio clean
@@ -1841,7 +1807,7 @@ bravo brave
 señoras ladies
 hubieras 'd
 ruego request
-recibir receive
+recibir to receive
 presión pressure
 oíste heard
 pasé I spent
@@ -1866,7 +1832,6 @@ fortuna fortune
 busco Seeking
 pollo chicken
 lago lake
-jodido fucking
 salgan out
 tenéis you have
 abierta open
@@ -1887,7 +1852,6 @@ sucio dirty
 jurado jury
 alemán German
 recibido received
-llevamos we
 presento present
 medicina medicine
 continúa continues
@@ -1900,7 +1864,7 @@ desayuno breakfast
 bala bullet
 castillo castle
 tesoro treasure
-conducir lead
+conducir to lead
 rostro face
 pedazo piece
 andar walk
@@ -2024,7 +1988,6 @@ llegará will
 importancia importance
 directamente directly
 pescado fish
-íbamos we
 juegos games
 haberme me
 pecho chest
@@ -2047,7 +2010,6 @@ tomo volume
 mentiras lie
 dirá tell
 obtener get
-quedará be
 sepas know
 usando using
 mataste killed
@@ -2110,7 +2072,7 @@ llego I get
 trabajas work
 daría would
 pasan pass
-discutir discuss
+discutir to discuss
 fuertes Strong
 labios lips
 suficientemente enough
@@ -2122,7 +2084,7 @@ intentarlo try
 regrese back
 mama breast
 parado stationary
-elegir choose
+elegir to choose
 huellas traces
 poquito little
 míos mine
@@ -2187,7 +2149,7 @@ estómago stomach
 pondré I will
 pregunté asked
 escucho listen
-sobrevivir survive
+sobrevivir to survive
 sigan continue
 dudo I doubt
 esperan expected
@@ -2230,7 +2192,7 @@ consigue get
 poniendo putting
 conseguí I got
 discurso speech
-destruir destroy
+destruir to destroy
 proteger protect
 llegaron arrived
 discúlpeme excuse me
@@ -2243,7 +2205,6 @@ miras view
 sexual sexual
 alcohol alcohol
 ciencia science
-seguimos we
 rápidamente quickly
 piense think
 balas bullets
@@ -2277,12 +2238,12 @@ monsieur M.
 llorando in tears
 llevaron led
 millas miles
-huir escape
+huir to escape
 revista magazine
 mono monkey
 canciones Songs
 cortar cut
-construir build
+construir to build
 enviado envoy
 adonde where
 detener stop
@@ -2296,7 +2257,6 @@ criminal criminal
 uniforme uniform
 intentado tried
 personalmente personally
-habíamos we
 caminando walking
 amistad friendship
 judío Jewish
@@ -2320,7 +2280,6 @@ cerrada closed
 periódicos newspapers
 original original
 louis louis
-pensamos we
 fiscal fiscal
 gustas like you
 normalmente normally
@@ -2354,7 +2313,6 @@ protección protection
 cadena chain
 casar marry
 ocasión time
-dejamos we
 solución solution
 pintura painting
 vueltas turns
@@ -2383,7 +2341,6 @@ dímelo tell me
 camarada comrade
 váyase go away
 daba was
-seremos we
 pierde lost
 artículo article
 gritar shout
@@ -2433,9 +2390,8 @@ alice alice
 comisario commissary
 alteza Highness
 amén amen
-pasamos we
 diles tell
-cumplir comply
+cumplir to comply
 guarda guard
 dilo say it
 sabrá know
@@ -2468,7 +2424,6 @@ robó stole
 huesos bones
 preguntó asked
 amaba loved
-salimos we
 volveremos back
 tontería foolishness
 harto fed up
@@ -2510,7 +2465,7 @@ tirar pull
 nadar swim
 maleta suitcase
 personaje character
-compartir share
+compartir to share
 flor flower
 resolver solve
 humo smoke
@@ -2521,7 +2476,7 @@ sombra shadow
 necesitar need
 pasos steps
 errores errors
-descubrir discover
+descubrir to discover
 hazme let me
 asqueroso disgusting
 promesa promise
@@ -2558,7 +2513,7 @@ preguntarte ask
 nación nation
 moda fashion
 ponen get
-servir serve
+servir to serve
 tierras land
 canta sings
 despierto awake
@@ -2589,7 +2544,6 @@ pienses think
 susan susan
 comiendo eating
 caza hunting
-tengamos we
 plato dish
 fila row
 sara sara
@@ -2642,7 +2596,7 @@ pidiendo asking
 buscas looking
 parada stop
 olvide Remember
-decidir decide
+decidir to decide
 seguido continued
 visitar visit
 decidí I decided
@@ -2650,7 +2604,6 @@ lady Lady
 martes Tuesday
 trabajos work
 pagan pay
-serlo be
 documentos documents
 okay okay
 juntas together
@@ -2670,7 +2623,6 @@ barry barry
 acepto I accept
 nacido born
 equivocada wrong
-creemos we
 resultados results
 soportar bear
 naturalmente naturally
@@ -2709,7 +2661,6 @@ eric eric
 brown brown
 suicidio suicide
 encontraré find
-estemos we
 piscina pool
 dejarte let
 elegido elected
@@ -2787,7 +2738,6 @@ disparó shot
 abandonar leave
 paliza beating
 atrapado trapped
-tomamos we
 pagaré promissory note
 kilos kilos
 caras faces
@@ -2808,7 +2758,7 @@ llegando coming
 enseñó taught
 recibí received
 extranjero foreign
-permitir allow
+permitir to allow
 cómodo comfortable
 poderoso powerful
 acabe end
@@ -2863,7 +2813,7 @@ campos fields
 arroz rice
 sabia wise
 escapó escaped
-sufrir suffer
+sufrir to suffer
 preguntado asked
 chiste joke
 subtítulos subtitles
@@ -2874,7 +2824,6 @@ traes bring
 pasen pass
 dick dick
 parezca seems
-seamos we
 casarte marry
 taylor taylor
 aprendido learned
@@ -3093,7 +3042,7 @@ explicación explanation
 conductor conductor
 fantasmas Ghosts
 preparar prepare
-mentir lie
+mentir to lie
 hagámoslo let's
 camina walking
 maggie maggie
@@ -3112,7 +3061,6 @@ echo miss
 presentar present
 nacimiento birth
 emocionante exciting
-buscamos we
 tranquilos quiet
 colores colors
 juventud youth
@@ -3174,7 +3122,7 @@ difíciles difficult
 lento slow
 jesse jesse
 grace grace
-ocurrir occur
+ocurrir to occur
 afortunado lucky
 tim tim
 equipaje luggage
@@ -3411,7 +3359,6 @@ sucediendo happening
 actuación performance
 favorita favorite
 acero steel
-deba be
 romántico romantic
 mandó sent
 internacional international
@@ -3430,7 +3377,6 @@ buscarlo search
 moscú Moscow
 dormitorio bedroom
 identidad identity
-decimos we
 coraje courage
 cabaña cabin
 alguacil sheriff
@@ -3691,7 +3637,7 @@ túnel tunnel
 azules blue
 ofrece offers
 corran run
-admitir admit
+admitir to admit
 incidente incident
 abril April
 maria maria
@@ -3920,7 +3866,6 @@ harta fed up
 habrán will
 francis francis
 sophie sophie
-darse be
 placa plate
 pregunte ask
 viajes travel
@@ -3955,7 +3900,6 @@ cercano close
 malditas damn
 pierdo I lose
 sonar sound
-pudimos we
 molestia nuisance
 francamente frankly
 mickey mickey
@@ -4021,7 +3965,6 @@ comunista communist
 aérea Air
 descubrí discovered
 pediste asked
-jodida fucked
 advierto warn
 asegurarme sure
 compasión compassion
@@ -4087,7 +4030,6 @@ miente lies
 mostrarte show
 pistas tracks
 kyle kyle
-logramos we
 tyler tyler
 rompe breaks
 nuclear nuclear
@@ -4254,7 +4196,6 @@ finales end
 pagará pay
 salía out
 demasiadas too
-dimos we
 ordenó ordered
 importar import
 pedimos ask
@@ -4294,7 +4235,6 @@ fresca fresh
 cambie change
 cómoda comfortable
 dignidad dignity
-hayamos we
 tomaremos take
 grita shouts
 medidas measures
@@ -4329,7 +4269,7 @@ miran look
 tristeza sadness
 cambiando changing
 ensalada salad
-fingir pretend
+fingir to pretend
 academia academy
 progreso progress
 ocuparé take care
@@ -4368,7 +4308,6 @@ buscarla search
 love love
 preso prisoner
 crecido grown
-entramos we
 bendición blessing
 coca coca
 seguiremos continue
@@ -4547,7 +4486,6 @@ chaval boy
 invisible invisible
 demuestra shows
 seguí followed
-deberá be
 consigues get
 bruno bruno
 colin colin
@@ -4715,7 +4653,6 @@ gus gus
 decidimos decided
 sigas follow
 origen origin
-jódete fuck you
 neil neil
 disfruta enjoy
 mantengan maintain
@@ -4790,7 +4727,7 @@ enseñarte show
 burro donkey
 horribles horrible
 oyeron heard
-cubrir cover
+cubrir to cover
 dolores pain
 mafia mafia
 escuelas schools
@@ -4811,13 +4748,12 @@ mezcla mixture
 policial police
 leonard leonard
 robaste stole
-ponemos we
-interrumpir interrupt
+interrumpir to interrupt
 entro entered
 pides ask
 fortaleza fortress
 términos terms
-dirigir direct
+dirigir to direct
 harían would
 copas Drinking
 mágico magic
@@ -4927,7 +4863,6 @@ pondremos will
 gesto gesture
 tratamos try
 negociar negotiate
-jodas fuck
 llegues get
 encontrarán find
 llenos full
@@ -4992,7 +4927,6 @@ ríes laugh
 hermosos beautiful
 holmes holmes
 dejarán will
-hubiéramos we
 procedimiento procedure
 lectura reading
 carbón coal
@@ -5008,7 +4942,7 @@ quisiste wanted
 plazo term
 cálmese calm down
 apártate Depart
-repetir repeat
+repetir to repeat
 desorden disorder
 intentan try
 aguanto stand
@@ -5135,7 +5069,7 @@ retrasado delayed
 duke duke
 your your
 motores engines
-convertir convert
+convertir to convert
 menuda fine
 gastar spend
 bernard bernard
@@ -5278,7 +5212,7 @@ champaña champagne
 globo balloon
 espiritual spiritual
 detesto hate
-resistir resist
+resistir to resist
 micrófono microphone
 conduciendo driving
 moviendo moving
@@ -5312,7 +5246,6 @@ bigote mustache
 pantano swamp
 mates math
 matarla kill
-pudiéramos we
 tímido shy
 despedirme goodbye
 traerme bring me
@@ -5649,7 +5582,6 @@ mosca fly
 episodio episode
 enseño teach
 cohete rocket
-jodidos fucking
 pretende intended
 pop pop
 continua continuous
@@ -5682,7 +5614,6 @@ término term
 corresponde corresponds
 valientes brave
 goma rubber
-jodiendo fucking
 permanente permanent
 despertado awakened
 vagabundo wanderer
@@ -5804,7 +5735,7 @@ cables Cables
 acerque close
 campesinos farmers
 ascenso ascent
-oir hear
+oir to hear
 valen worth
 piratas pirates
 disfraz costume
@@ -5904,7 +5835,7 @@ unirse join
 conocerle know
 sesos brains
 fuegos fires
-impedir prevent
+impedir to prevent
 felicito I congratulate
 conseguiremos get
 debimos we had
@@ -5952,7 +5883,7 @@ preguntaste asked
 herencia heritage
 hermanito brother
 richie richie
-reunir gather
+reunir to gather
 quite remove
 cogí I took
 llamaría call
@@ -6112,7 +6043,6 @@ mason mason
 mariscal marshal
 diente tooth
 deberia should
-verse be
 agotado exhausted
 pearl pearl
 domingos Sunday
@@ -6140,7 +6070,6 @@ similar similar
 torta cake
 entraste you came
 kid kid
-existir be
 margen margin
 sentirás feel
 asesinados killed
@@ -6237,7 +6166,7 @@ viaja travels
 quitarme take off
 geniales great
 cuñado brother
-competir compete
+competir to compete
 isabel Isabel
 comience start
 cazadores Hunters
@@ -6275,7 +6204,6 @@ barnes barnes
 alexander alexander
 bárbara Barbara
 acostarse lie
-cabe be
 pruebe try
 accidentes accidents
 moscas Flies
@@ -6288,7 +6216,6 @@ granero barn
 lejano distant
 responsabilidades responsibilities
 esencial essential
-putos fucking
 sierra sierra
 atras back
 etapa stage
@@ -6341,7 +6268,6 @@ filadelfia Philadelphia
 hembra female
 leerlo read
 romanos Romans
-quedarán be
 manicomio asylum
 esencia essence
 cruzado cross
@@ -6405,7 +6331,6 @@ advertí I noticed
 vivirá live
 phillip phillip
 posibles possible
-cagar shit
 soltar release
 baúl trunk
 lester lester
@@ -6419,7 +6344,7 @@ asistencia assistance
 connor connor
 rodaje filming
 estate estate
-despedir dismiss
+despedir to dismiss
 avanzar advance
 guardaespaldas bodyguard
 expresar express
@@ -6557,7 +6482,6 @@ ahorrar save
 marino marine
 rodando rolling
 discutiendo arguing
-follar fuck
 entres enter
 desesperación despair
 amenazas threats
@@ -6618,7 +6542,7 @@ batallón battalion
 asquerosa disgusting
 shane shane
 relámpago lightning
-asumir assume
+asumir to assume
 sorpresas surprises
 previsto provided
 deshacerse dispose
@@ -6660,7 +6584,6 @@ conquistar conquer
 quitarle take
 clarence clarence
 homer homer
-carajos fuck
 atacaron attacked
 nucleares nuclear
 tirador shooter
@@ -6757,7 +6680,7 @@ necesaria necessary
 perdono forgive
 apuro trouble
 desnudos naked
-asistir attend
+asistir to attend
 obedecer obey
 conectado connected
 estreno release
@@ -6847,7 +6770,7 @@ posee has
 confirmado confirmed
 promedio average
 rencor rancor
-combatir combat
+combatir to combat
 viví I lived
 satisfacción satisfaction
 jules jules
@@ -6897,7 +6820,6 @@ lorenzo lorenzo
 vosotras you
 mesas tables
 crucero cruise
-encontrarse be
 aprieta press
 drogado high
 ino ino
@@ -6915,7 +6837,7 @@ brisa breeze
 vendí sold
 pacto pact
 spencer spencer
-vestir dress
+vestir to dress
 aumentar increase
 cameron cameron
 femenina female
@@ -7055,7 +6977,7 @@ drake drake
 ciaro ciaro
 enfades angry
 gustaban liked
-producir produce
+producir to produce
 terrorismo terrorism
 avanza advances
 acostumbrada used
@@ -7182,7 +7104,7 @@ hechizo spell
 muñeco doll
 denle give him
 llegarás arrive
-añadir add
+añadir to add
 nocturna Night
 mutuamente mutually
 consulta consultation
@@ -7488,7 +7410,6 @@ tijeras scissors
 actúas act
 esther esther
 mónica monica
-jodidamente fucking
 temen fear
 intentaron attempted
 pillado caught
@@ -7505,7 +7426,7 @@ mande send
 cohetes rocket
 hábil skillful
 secuestrado kidnapped
-herir hurt
+herir to hurt
 argumento argument
 pausa pause
 pretendes intend
@@ -7514,7 +7435,6 @@ tiren throw
 fijado set
 brandon brandon
 internos internal
-cago shit
 camisas Shirts
 contratos contracts
 cueste cost
@@ -7630,7 +7550,7 @@ hee hee
 ansiedad anxiety
 consiguen get
 pasajero passenger
-describir describe
+describir to describe
 barca bark
 paja straw
 incendios fire
@@ -7705,7 +7625,6 @@ terminan end
 delgada thin
 latas cans
 católica Catholic
-mierdas shit
 parados unemployed
 hogares homes
 kilo kilo
@@ -7807,7 +7726,7 @@ arquitecto architect
 reflejo reflection
 devuelve returns
 guante glove
-unir join
+unir to join
 olvidaba forgot
 belle belle
 saldría would
@@ -7901,7 +7820,7 @@ tobillo ankle
 hablara talk
 ginger ginger
 veloz fast
-reducir reduce
+reducir to reduce
 churchill churchill
 sujeta subject
 desperdicio waste
@@ -8082,7 +8001,7 @@ dispárale shoot
 británica British
 golpeando hitting
 simpática sympathetic
-perseguir pursue
+perseguir to pursue
 garras claws
 bombardeo bombing
 creador creator
@@ -8519,7 +8438,6 @@ like like
 modesto modest
 rehabilitación rehabilitation
 insistió stressed
-tomarse be
 rebaño herd
 rostros faces
 enviaste sent
@@ -8539,7 +8457,7 @@ cálido warm
 gotas drops
 satisfacer meet
 medallas medals
-distinguir distinguish
+distinguir to distinguish
 pala shovel
 basa basa
 votación vote
@@ -8686,7 +8604,6 @@ espuma foam
 mostrarles show
 tías aunts
 necesitaban needed
-seríamos would be
 oía heard
 novedades new
 enseñan teach
@@ -8706,7 +8623,6 @@ tramando plotting
 inventé invented
 rechazo rejection
 sólido solid
-deberán be
 anfitrión host
 sincronizado synchronized
 concha shell
@@ -8914,7 +8830,6 @@ angus angus
 fax fax
 habiar taIk
 profecía prophecy
-contamos we
 gemelas Twin
 cumplió fulfilled
 arreglando fixing
@@ -9245,7 +9160,7 @@ mienten lie
 marcharte leave
 lionel lionel
 vendas bands
-invertir invest
+invertir to invest
 firmas firms
 ocurriera occur
 compran buy
@@ -9569,7 +9484,7 @@ formulario form
 hung hung
 saddam saddam
 atrapé caught
-transmitir transmit
+transmitir to transmit
 consumo consumption
 definitiva final
 idiomas languages
@@ -9661,14 +9576,14 @@ maduro mature
 robarle rob
 guapas beautiful
 esqueleto skeleton
-acudir go
+acudir to go
 cajero cashier
 diccionario dictionary
 mineros miners
 chismes gossip
 nell nell
 impresionar impress
-interferir interfere
+interferir to interfere
 conectar connect
 tutor tutor
 arsenal arsenal
@@ -9818,7 +9733,7 @@ acusada accused
 filósofo philosopher
 apasionado passionate
 wagner wagner
-repartir deal
+repartir to deal
 candy candy
 ciao ciao
 fidelidad fidelity
@@ -9840,7 +9755,6 @@ publicado published
 duran last
 robada stolen
 troya Trojan
-jode fuck
 alquilado rented
 presidencia presidency
 cenicienta Cinderella
@@ -9921,7 +9835,6 @@ dormidos asleep
 crystal crystal
 damien damien
 seminario seminar
-estara will be
 continuará continue
 cucarachas cockroaches
 cuevas caves
@@ -9981,7 +9894,6 @@ aburridos boring
 tranvía tram
 ironía irony
 mon mon
-cagada shit
 joanna joanna
 sushi Sushi
 pecador sinner
@@ -10020,7 +9932,7 @@ violado broken
 intensa intense
 detienen stop
 pillo rascal
-insistir insist
+insistir to insist
 cain cain
 klaus klaus
 banana banana
@@ -10034,7 +9946,7 @@ sobrevive survives
 contestas answer
 vladimir vladimir
 bancarrota bankruptcy
-divertir entertain
+divertir to entertain
 jaque check
 continuamos continue
 monitor monitor
@@ -10070,7 +9982,6 @@ tierna tender
 playas beaches
 volador flying
 gibson gibson
-cagado shit
 reconstruir reconstruct
 iraq iraq
 asistentes Attendees
@@ -10826,7 +10737,6 @@ orillas banks
 recortes trimmings
 instalado installed
 turismo tourism
-jodió fucked
 bam bam
 girl girl
 chips chips
@@ -11405,7 +11315,6 @@ blade blade
 master master's degree
 pancho pancho
 evitando avoiding
-estaria would be
 retratos Pictures
 verías would see
 traerán bring
@@ -11592,7 +11501,6 @@ irritante irritating
 beatriz beatriz
 hilary hilary
 trey trey
-estaréis you will be
 rush rush
 estatales State
 preparadas prepared
@@ -11625,7 +11533,6 @@ vlad vlad
 amargado embittered
 arteria artery
 area area
-estaras you will be
 ampliar enlarge
 funda cover
 bulto package
@@ -11742,7 +11649,6 @@ juliet juliet
 solares solar
 caño spout
 gore gore
-caga shit
 give give
 obtenga get
 humildemente humbly
@@ -11828,7 +11734,6 @@ sugar sugar
 keyes keyes
 vegetariana Vegetarian
 bigotes whiskers
-seras you will be
 desmayo fainting
 afectada affected
 parezcan appear
@@ -12042,7 +11947,6 @@ sociedades societies
 volaremos fly
 afirmación assertion
 llamame call me
-follando fucking
 lapicera pen
 incomoda uncomfortable
 bosnia Bosnian
@@ -12413,7 +12317,6 @@ asesinadas killed
 decídete Make up your mind
 gambas prawns
 invitando inviting
-pendejadas shit
 románticas Romantic
 living living room
 need need
@@ -12521,7 +12424,6 @@ creados created
 refugios shelters
 berry berry
 trade trade
-fuck fuck
 spray spray
 posicion position
 elfos Elves

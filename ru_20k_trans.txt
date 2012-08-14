@@ -2,13 +2,13 @@
 это it
 как as
 мне me
-меня me
+я me
 нет no
 так so
 все all
 его his
 тебя you
-она it
+она she
 тебе you
 если if
 они they
@@ -43,7 +43,7 @@
 могу I
 ничего nothing
 сейчас now
-хочу I want to
+хочу want
 нам us
 чем than
 мой my
@@ -71,7 +71,6 @@
 пока while
 потому therefore
 никогда never
-должен be
 сюда here
 тут here
 ещё more
@@ -251,7 +250,6 @@
 нельзя not
 зовут name
 тех those
-должно be
 мою my
 более more
 вижу see
@@ -338,7 +336,6 @@
 брат brother
 хоть at least
 будто as though
-будь be
 одну one
 ваше your
 самое the most
