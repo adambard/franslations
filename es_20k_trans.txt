@@ -37,7 +37,7 @@ soy am
 puedo I can
 bueno good
 era era
-ser be
+ser to be
 vez time
 hacer to do
 todos all
@@ -62,7 +62,7 @@ dónde where
 sus their
 dos two
 nunca never
-saber know
+saber to know
 verdad truth
 quieres you want
 mucho much
@@ -78,7 +78,7 @@ también also
 vida life
 están are
 sin without
-ver see
+ver to see
 has have
 siempre always
 ahí there
@@ -119,7 +119,7 @@ ellos they
 mañana morning
 otro other
 han have
-hablar talk
+hablar to talk
 después after
 desde from
 tal such
@@ -140,7 +140,7 @@ madre mother
 tus your
 cosa thing
 allí there
-lugar place
+lugar to place
 dice says
 gusta like
 gran great
@@ -153,7 +153,7 @@ espera waiting
 tres three
 ven are
 buena good
-tener have
+tener to have
 luego then
 dije I
 nuevo new
@@ -188,7 +188,7 @@ cada each
 veces times
 hora time
 contigo with you
-haber have
+haber to have
 oye hear
 buenas good
 hombres men
@@ -197,7 +197,7 @@ demasiado too
 haces do
 dicho said
 quien who
-saber know
+saber to know
 entre between
 adiós goodbye
 vaya go
@@ -278,7 +278,7 @@ forma form
 guerra war
 durante during
 esposa wife
-volver return
+volver to return
 feliz happy
 cuál which
 adelante forward
@@ -296,7 +296,7 @@ haré will
 semana week
 loco crazy
 supuesto supposed
-pasar pass
+pasar to pass
 entiendo I understand
 iba was
 jefe chief
@@ -338,7 +338,7 @@ dijiste you said
 auto car
 escucha listening
 único only
-poder power
+poder to power
 quieren want
 siquiera even
 quizás perhaps
@@ -354,16 +354,16 @@ igual like
 muchos many
 pequeño small
 significa means
-dejar leave
+dejar to leave
 hago I
 clase class
 capitán captain
 doctor doctor
-llegar get
+llegar to get
 genial brilliant
 suficiente enough
-trabajar work
-tomar take
+trabajar to work
+tomar to take
 hey hey
 joven young
 vivir to live
@@ -374,16 +374,16 @@ hubiera had
 primer first
 número number
 necesita needs
-pensar think
+pensar to think
 puta bitch
 fui I
-entrar enter
+entrar to enter
 conozco I know
 misma same
 fuerte strong
 srta srta
 basta just
-comer eat
+comer to eat
 algunos some
 morir to die
 éste this
@@ -391,7 +391,7 @@ atrás back
 difícil difficult
 amo master
 vino wine
-dar give
+dar to give
 bastante quite
 unas some
 pueda can
@@ -413,7 +413,7 @@ coche car
 juego game
 dime tell me
 paz peace
-encontrar find
+encontrar to find
 cuerpo body
 eran were
 dólares U.S. dollars
@@ -449,7 +449,7 @@ adónde where
 lejos away
 palabra word
 trata is
-matar kill
+matar to kill
 preocupes worry
 país country
 segundo second
@@ -480,7 +480,7 @@ fueron were
 necesitas need
 tenga have
 película film
-creer believe
+creer to believe
 falta lack
 cielo sky
 venido been
@@ -489,7 +489,7 @@ oído ear
 pequeña small
 perro dog
 rey king
-esperar wait
+esperar to wait
 pienso feed
 lista list
 calle street
@@ -543,7 +543,7 @@ gusto taste
 sabemos know
 jack jack
 viaje trip
-jugar play
+jugar to play
 irme go
 demás other
 peor worse
@@ -577,13 +577,13 @@ modo mode
 otras other
 pobre poor
 frente front
-buscar search
+buscar to search
 piensas think
 acerca about
 segura safe
 correcto correct
 disculpe sorry
-llamar call
+llamar to call
 armas arms
 sucede happens
 puesto post
@@ -598,7 +598,7 @@ encima above
 odio hatred
 seguridad security
 york york
-llevar lead
+llevar to lead
 hospital hospital
 llamo I call
 sueño I dream
@@ -607,8 +607,8 @@ tranquilo quiet
 mire look
 perfecto perfect
 quieras want
-perder lose
-ayudar help
+perder to lose
+ayudar to help
 ése that
 estaré I will
 dile tell
@@ -643,7 +643,7 @@ conoce known
 hambre hunger
 simplemente simply
 vive lives
-empezar start
+empezar to start
 carta letter
 barco ship
 campo field
@@ -655,15 +655,15 @@ anda walk
 tuyo yours
 grupo group
 vuelto turned
-poner put
-usar use
+poner to put
+usar to use
 voz voice
 quédate Stay
 pase pass
 joe joe
 noticias news
 sol sun
-placer pleasure
+placer to pleasure
 pie foot
 decirte tell
 conseguir to get
@@ -693,14 +693,14 @@ loca crazy
 silencio silence
 gustan like
 futuro future
-pagar pay
+pagar to pay
 novia bride
 raro rare
 prisa hurry
 sal salt
 viste dresses
 control control
-cambiar change
+cambiar to change
 quiera want
 imposible impossible
 dan are
@@ -714,7 +714,7 @@ llevo took
 diferente different
 mes month
 ejército army
-ganar win
+ganar to win
 ley law
 acabó ended
 pelo hair
@@ -734,7 +734,7 @@ estúpido stupid
 permiso permission
 avión plane
 mitad half
-comprar buy
+comprar to buy
 muertos dead
 acabo just
 mente mind
@@ -896,7 +896,7 @@ carrera race
 ambos both
 cielos heaven
 deje leave
-beber drink
+beber to drink
 cumpleaños birthday
 verás see
 calma calm
@@ -1000,14 +1000,14 @@ veamos see
 pruebas testing
 llave key
 ganas win
-conocer know
+conocer to know
 apenas just
 embargo embargo
 enfermo ill
 parecía seemed
 ninguno none
 imbécil fool
-leer read
+leer to read
 apuesto bet
 corte court
 señal signal
@@ -1037,7 +1037,7 @@ agradable nice
 cambiado changed
 habían had
 sueños dreams
-entender understand
+entender to understand
 reunión meeting
 dejes let
 tendría would
@@ -1133,14 +1133,14 @@ valor value
 damas ladies
 caballero knight
 llaman call
-mantener maintain
+mantener to maintain
 hagan do
 flores flowers
 serás you will
 finalmente finally
 miles thousands
 pedir to ask
-aprender learn
+aprender to learn
 equivocado wrong
 puso put
 arte art
@@ -1313,7 +1313,7 @@ vengo come
 escuche listen
 debido due
 dama lady
-correr run
+correr to run
 depende depends
 regresa back
 dieron given
@@ -1337,7 +1337,7 @@ princesa princess
 intenta try
 árbol tree
 max max
-traer bring
+traer to bring
 cerdo pig
 belleza beauty
 solamente only
@@ -1401,7 +1401,7 @@ hacerme me
 pista track
 interior interior
 pasará will
-vender sell
+vender to sell
 mírame Look at me
 lástima shame
 gato cat
@@ -1424,7 +1424,7 @@ locos crazy
 intentando trying
 haberlo have
 siéntese sit
-caer fall
+caer to fall
 completo full
 borracho drunk
 dando giving
@@ -1465,7 +1465,7 @@ decidido decided
 pierna leg
 bebe baby
 quedó was
-parecer seem
+parecer to seem
 extraña strange
 recordar remember
 diferentes different
@@ -1608,7 +1608,7 @@ red network
 dedos fingers
 mami Mommy
 aspecto appearance
-querer want
+querer to want
 escuché I heard
 primo cousin
 nuevas new
@@ -1720,7 +1720,7 @@ muestra sample
 aceptar accept
 desastre disaster
 gordo fat
-coger take
+coger to take
 resulta result
 valiente brave
 distancia distance
@@ -2057,7 +2057,7 @@ corto short
 enfermera nurse
 violencia violence
 montañas mountains
-romper break
+romper to break
 tamaño size
 esperas expect
 desaparecido missing
@@ -2193,7 +2193,7 @@ poniendo putting
 conseguí I got
 discurso speech
 destruir to destroy
-proteger protect
+proteger to protect
 llegaron arrived
 discúlpeme excuse me
 limpia clean
@@ -2231,7 +2231,7 @@ sospechoso suspect
 podías could
 examen review
 evidencia evidence
-recoger collect
+recoger to collect
 encantadora lovely
 orgullo pride
 monsieur M.
@@ -2246,7 +2246,7 @@ cortar cut
 construir to build
 enviado envoy
 adonde where
-detener stop
+detener to stop
 madera wood
 casos cases
 crea creates
@@ -2442,7 +2442,7 @@ llegas get
 scott scott
 venta sale
 honesto honest
-meter put
+meter to put
 texas Texas
 cuídate beware
 podéis you can
@@ -2467,7 +2467,7 @@ maleta suitcase
 personaje character
 compartir to share
 flor flower
-resolver solve
+resolver to solve
 humo smoke
 váyanse depart out
 vivimos live
