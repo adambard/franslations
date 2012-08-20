@@ -30,7 +30,7 @@ wenn when
 nein no
 noch more
 bin am
-habe I
+habe have
 nur only
 dir you
 sich themselves
@@ -1336,7 +1336,7 @@ nick nick
 ehren honor
 besuchen visit
 entlang along
-freude joy
+Freude joy
 verdammten damn
 geliebt beloved
 mami mommy
@@ -2546,7 +2546,7 @@ wenige a few
 fuck fuck
 matt mat
 schlimmste worst
-schwestern sisters
+Schwestern sisters
 fliehen flee
 what what
 genießen enjoy
@@ -2603,7 +2603,7 @@ dicht close
 daten data
 geburt birth
 esse eat
-angekommen Once
+angekommen arrived home
 chaos chaos
 geheim secret
 politik policy

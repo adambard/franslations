@@ -29,10 +29,9 @@
 всё all
 может can
 кто who
-вам you
+вам to you
 очень very
 там there
-будет will
 быть be
 почему why
 уже already
@@ -56,7 +55,7 @@
 больше more
 этом this
 нибудь some
-была was
+была was (fem.)
 раз time
 ладно okay
 этот this
@@ -78,7 +77,7 @@
 конечно of course
 пожалуйста please
 тогда then
-него it
+него him
 моя my
 один one
 сегодня today
@@ -103,7 +102,6 @@
 чего which
 должны have
 делать do
-буду will
 значит so
 сделать do
 всего only
@@ -176,7 +174,6 @@
 три three
 можем can
 скажи Say
-будем will
 снова again
 место place
 дома home
@@ -187,7 +184,6 @@
 говорит said
 хочет wants to
 делаешь do
-будешь will
 понимаю I understand
 сказала said
 давайте let's
@@ -231,7 +227,6 @@
 одна a
 имя name
 смотри look
-будут will
 наш our
 действительно really
 мать mother
@@ -452,7 +447,6 @@
 твоего your
 дорогой expensive
 стой stop
-будете will
 никого no one
 друзья Friends
 вперед forward
@@ -482,7 +476,7 @@
 стать be
 умер died
 мальчик boy
-тому to
+тому to (whom)
 иначе otherwise
 доброе good
 сделали did
@@ -689,7 +683,6 @@ the the
 леди lady
 кстати by the way
 сэм Sam
-станет will
 около about
 внутри in
 наше our
@@ -948,7 +941,6 @@ and and
 слышали heard
 сообщение message
 окей okay
-получится will
 маленькая small
 получилось turned out
 чувствуешь feel
@@ -971,7 +963,6 @@ you you
 расскажи Tell
 беги Run
 пройти get
-придет will
 фрэнк Frank
 живет lives
 игры game
@@ -1198,7 +1189,6 @@ you you
 хорошего good
 двадцать twenty
 другому other
-сделает will
 делали did
 остался was
 купил bought
@@ -1254,7 +1244,6 @@ you you
 готово ready
 состоянии state
 лично personally
-останется will
 придурок moron
 убирайся get out
 каком what
@@ -1280,7 +1269,6 @@ you you
 сша USA
 договорились agreed
 сможете can
-выйдет will
 написано written
 смотрю I look
 живу I live
@@ -1319,7 +1307,6 @@ you you
 билли Billy
 решила decided to
 сильнее more
-стану I will
 звонок bell
 подальше out
 главный chief
@@ -1435,7 +1422,6 @@ you you
 встретимся meet
 получишь get
 встреча meeting
-пойдет will
 вышла out
 подруга friend
 самых the most
@@ -1585,7 +1571,6 @@ you you
 цветы Flowers
 заходи come in
 офицер officer
-желание will
 смогла could
 туалет WC
 ого On
@@ -1651,7 +1636,6 @@ you you
 вечеринка party
 глазами eyes
 мяч ball
-даст will
 добраться get
 принцесса princess
 система system
@@ -1809,7 +1793,6 @@ com com
 зря for nothing
 оказался was
 даю give
-придёт will
 вернемся back
 лицом face
 страна country
@@ -2235,7 +2218,6 @@ that that
 остров island
 остановиться stay
 подобного this
-получит will
 папочка daddy
 жди Wait
 умный intelligent
@@ -2315,12 +2297,10 @@ http http
 фредди Freddie
 получу get
 объясню explain
-пройдет will
 магазине Store
 беременна pregnant
 каково what
 отвечать answer
-появится will
 делайте do
 зад ass
 живых Living
@@ -2364,7 +2344,6 @@ http http
 беспокоиться worry
 держитесь Hold
 девушек Girls
-удастся will
 словами words
 основном mainly
 полегче easier
@@ -2533,7 +2512,6 @@ http http
 баре Bar
 русские Russian
 мертвы dead
-произойдет will
 джонс Jones
 ищем looking for
 показания statement
@@ -2779,7 +2757,6 @@ http http
 днк DNA
 филипп Philip
 ощущение feeling
-пойдёт will
 особо particularly
 проснись wake up
 контракт contract
@@ -2886,7 +2863,6 @@ http http
 пишет writes
 встретить meet
 девчонки Girls
-найдут will
 хорошую good
 входите enter
 служба service
@@ -3179,7 +3155,6 @@ was was
 автомобиль car
 север north
 возвращайтесь back
-станут will
 прекрасна Beautiful
 дар gift
 займусь 'll
@@ -3537,7 +3512,6 @@ all all
 верил believed
 наркотиков of drugs
 обвинения charges
-найдет will
 важный important
 джен Jen
 системе system
@@ -3704,7 +3678,6 @@ for for
 мешает interferes with
 темноте the dark
 банке Bank
-начнется will
 бросьте drop it
 ведут are
 километров kilometers
@@ -3783,7 +3756,6 @@ but but
 подобно like
 температура temperature
 меняется changes
-дадут will
 прыгай jump
 глубже deeper
 рождеством Christmas
@@ -4098,7 +4070,6 @@ eгo ego
 судно ship
 аллен Allen
 боги Gods
-позволит will
 отпечатки prints
 спрошу I ask
 включить include
@@ -4240,7 +4211,6 @@ eгo ego
 натали Natalie
 пуля bullet
 тост toast
-пойдут will
 беспокойство concern
 стар old
 убираться get out
@@ -4254,7 +4224,6 @@ eгo ego
 пустите Suffer the little
 поездка trip
 третья third
-воле will
 заплатили paid
 боялась afraid of
 почувствовать feel
@@ -4431,7 +4400,6 @@ eгo ego
 поможете help
 ответьте answer
 новом new
-начнут will
 сдать pass
 ножом knife
 правды Truth
@@ -4443,7 +4411,6 @@ eгo ego
 подписать sign
 взрыва explosion
 полон full
-воля will
 остальным other
 стихи poetry
 удовольствия Fun
@@ -4461,7 +4428,6 @@ eгo ego
 отношениях relations
 личный personal
 третьего third
-окажется will
 захотите want to
 строить build
 поддерживать support
@@ -4605,7 +4571,6 @@ oни they are normally
 чистый net
 славный nice
 стола Table
-волю will
 плачешь crying
 блюдо dish
 угадай guess
@@ -4656,7 +4621,6 @@ not not
 расслабиться relax
 пас pass
 ищете looking for
-приведет will
 устройство device
 израиля israel
 себастьян Sebastian
@@ -5027,7 +4991,6 @@ love love
 бывало happened
 альберт Albert
 университета University
-воли will
 американских American
 господу Lord
 вида form
@@ -5126,7 +5089,6 @@ love love
 опасный dangerous
 пространство space
 проблемой problem
-начнет will
 соня sleepyhead
 лжец Liar
 написали written
@@ -5438,7 +5400,6 @@ have have
 норман Norman
 флаг flag
 рассвете Dawn
-пройдёт will
 растут grow
 попроси ask
 совести Conscience
@@ -5523,7 +5484,6 @@ have have
 обними Embrace
 трудности difficulties
 игр Games
-покажет will
 октября October
 фантазии fantasy
 интересная interesting
@@ -5757,7 +5717,6 @@ when when
 вошла entered
 достань Get it
 молчание silence
-останутся will
 кларк clark
 использую use
 чудеса Miracles
@@ -5989,7 +5948,6 @@ heт het
 кругу range
 плечо shoulder
 направление direction
-примет will
 адвокатом lawyer
 шума Noise
 утверждает claims
@@ -6112,7 +6070,6 @@ are are
 пытайся try
 ущерб damage
 рис rice
-произойдёт will
 деда Grandfather
 пустяки trivia
 уезжай go away
@@ -6183,7 +6140,6 @@ are are
 мартини Martini
 домов homes
 личной personal
-возьмет will
 лесли Leslie
 рыцарь knight
 объяснил explained
@@ -6213,7 +6169,6 @@ down down
 сотню one hundred
 схватил seized
 номером number
-принесет will
 запомнил remember
 переодеться to change
 женюсь get married
@@ -6620,7 +6575,6 @@ ecли if ye
 телу body
 миледи milady
 аппетита Appetite
-will will
 клетке cell
 образцы samples
 находитесь are
@@ -6767,7 +6721,6 @@ will will
 выслушать listen
 непонятно it is unclear
 отдохни rest
-найдёт will
 черном black
 сбежали fled
 справедливости Justice
@@ -7270,7 +7223,6 @@ way way
 выпьешь drink
 сумке bag
 пред before
-состоится will
 познакомилась met
 хобби hobby
 ружья Guns
@@ -7310,7 +7262,6 @@ got got
 шагом step
 эго ego
 гарольд Harold
-появятся will
 феликс Felix
 прекрасную excellent
 отвечаешь answer
@@ -7460,7 +7411,6 @@ got got
 прочее Other
 парням guys
 севере north
-начнётся will
 библиотеке Library
 чистые net
 пили drinking
@@ -8202,7 +8152,6 @@ yeah yeah
 браслет bracelet
 паспорта Passport
 лёд ice
-примут will
 слёзы Tears
 сложный complex
 вторым second
@@ -8446,7 +8395,6 @@ here here
 окон windows
 сыновья sons
 переживать feel
-завещание will
 частично partially
 взрослая adult
 заведения Institutions
@@ -8657,7 +8605,6 @@ think think
 been been
 сложности of
 сотрудник employee
-пройдут will
 останки remains
 морских Marine
 лиса fox
@@ -8834,7 +8781,6 @@ man man
 ярость rage
 праздника holiday
 компьютера computer
-приведёт will
 обыск search
 римляне Romans
 мерзкий nasty

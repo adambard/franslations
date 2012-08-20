@@ -1,9 +1,11 @@
+yo I
 qué what
 por by
 una a
 los the
 con with
-para to
+para for/to
+a to
 está is
 pero but
 bien well
@@ -20,7 +22,7 @@ ahora now
 esta this
 hay there are
 algo something
-estoy am
+estoy (I) am
 tengo I have
 así so
 nada nothing
@@ -29,11 +31,10 @@ cuando when
 cómo how
 estás you are
 sólo only
-yo I
 gracias thanks
 tiene you have
 este this
-soy am
+soy (I) am
 puedo I can
 bueno good
 era era
@@ -51,8 +52,7 @@ puede can
 señor Mr.
 quién who
 ese that
-voy I
-creo I
+voy I go
 casa home
 porque because
 hola hello
@@ -71,7 +71,6 @@ estaba was
 entonces then
 mejor better
 esa that
-hace ago
 hombre man
 dios god
 también also
@@ -84,7 +83,7 @@ siempre always
 ahí there
 hasta to
 siento Sorry
-puedes can
+puedes you can
 decir to say
 sobre on
 años years old
@@ -95,7 +94,7 @@ cosas stuff
 noche night
 alguien someone
 antes before
-mis I
+mis my
 poco little
 otra other
 quiere want
@@ -155,7 +154,6 @@ ven are
 buena good
 tener to have
 luego then
-dije I
 nuevo new
 estado state
 menos less
@@ -203,7 +201,6 @@ adiós goodbye
 vaya go
 unos about
 cierto certain
-debo I
 problema problem
 razón reason
 esos those
@@ -211,7 +208,6 @@ alguna any
 pues for
 quizá perhaps
 idea idea
-veo I
 chica girl
 policía police
 amigos friends
@@ -263,7 +259,6 @@ niños children
 agua water
 pasó spent
 cualquier any
-pensé I
 ciudad city
 primero first
 hacia to
@@ -284,7 +279,6 @@ cuál which
 adelante forward
 allá there
 ojos eyes
-hice I
 caso case
 mano hand
 chicos boys
@@ -355,7 +349,6 @@ muchos many
 pequeño small
 significa means
 dejar to leave
-hago I
 clase class
 capitán captain
 doctor doctor
@@ -376,7 +369,6 @@ número number
 necesita needs
 pensar to think
 puta bitch
-fui I
 entrar to enter
 conozco I know
 misma same
@@ -453,7 +445,6 @@ matar to kill
 preocupes worry
 país country
 segundo second
-tuve I
 oportunidad opportunity
 esté is
 luz light
@@ -667,7 +658,6 @@ placer to pleasure
 pie foot
 decirte tell
 conseguir to get
-estuve I
 blanco target
 george george
 espere wait
@@ -805,9 +795,7 @@ estábamos were
 servicio service
 terrible terrible
 abogado lawyer
-pude I
 perra bitch
-doy I
 ante before
 navidad Christmas
 llamas flames
@@ -1345,7 +1333,6 @@ solamente only
 steve steve
 llame call
 planeta planet
-sigo I
 dejas let
 parecen seem
 tratar treat
@@ -1582,7 +1569,7 @@ bastardo bastard
 creerlo believe
 gustaba like
 arreglar fix
-estan are
+estan (they) are
 pasada pass
 domingo Sunday
 sentimientos feelings
@@ -1619,7 +1606,6 @@ ibas going
 olvides forget
 agradezco thank you
 nacional national
-llegué I
 pedí asked
 gracia grace
 tantas so
@@ -9535,7 +9521,6 @@ traficantes Traffickers
 erin erin
 pedía asked
 domicilio home
-yyo And I
 rodeos rodeos
 cantina canteen
 good good
